@@ -2,7 +2,7 @@ Hi
 i like coding and gaming
 im leanring javascript
 im making a bot for discord
-if you wanna help me at coding or bot, you can just make a pull request anyway 
+if you wanna help me at bot just add me on discord 
 discord account = Anony mous#2590 (alt)
  thanks for reading :D
 <!---
